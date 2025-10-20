@@ -65,8 +65,3 @@ Nếu có ý kiến đóng góp hoặc phát hiện lỗi, vui lòng tạo issue
 ---
 **Sinh viên thực hiện:** Lê Minh Đạo  
 **Mã số:** B24DCCC052  
-**Môn học:** Thực hành phát triển ứng dụng Web
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
